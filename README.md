@@ -13,16 +13,6 @@ Sistema desenvolvido em Python para monitorar e gerenciar os recursos de uma col
 
 ---
 
-## ▶️ Como executar
-
-1. Clone o repositório
-2. Execute o arquivo principal:
-```bash
-python sistema_colonia.py
-```
-
----
-
 ## 📥 Exemplo de entrada
 
 ```python
